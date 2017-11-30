@@ -1,0 +1,1 @@
+passing? [![Build Status](https://travis-ci.org/CarlinLiao/ci-test.svg?branch=master)](https://travis-ci.org/CarlinLiao/ci-test)
